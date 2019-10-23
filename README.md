@@ -13,7 +13,9 @@ Once he wins 3 more kingdoms, he is the ruler! The secret message needs to conta
 For example, secret message to the Land kingdom (emblem: Panda) needs to have the letter 'p','n','d' at-
 
 least once and 'a' at-least twice. If he sends "a1d22n333a4444p" to the Land kingdom, he will win them over.
+
 -----------------------------------------------------------------------------------------------
 Solution-
+-----------------------------------------------------------------------------------------------
 1) Decision tree to match second input with first input.
 2) 
