@@ -17,5 +17,5 @@ least once and 'a' at-least twice. If he sends "a1d22n333a4444p" to the Land kin
 -----------------------------------------------------------------------------------------------
 Solution-
 -----------------------------------------------------------------------------------------------
-1) Decision tree to match second input with first input.
-2) 
+* Decision tree to match second input with first input.
+ 
